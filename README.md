@@ -46,8 +46,8 @@
                 height="40" /> </a>
     </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irohitsinghr&show_icons=true&locale=en&layout=compact" alt="irohitsinghr" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ikesharinandan&show_icons=true&locale=en&layout=compact" alt="ikesharinandan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irohitsinghr&show_icons=true&locale=en" alt="irohitsinghr" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ikesharinandan&show_icons=true&locale=en" alt="ikesharinandan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irohitsinghr&" alt="irohitsinghr" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ikesharinandan&" alt="ikesharinandan" /></p>
