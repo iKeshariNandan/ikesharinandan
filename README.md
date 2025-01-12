@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Keshari</h1>
 <h3 align="center">A passionate Explorer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=irohitsinghr&label=Profile%20views&color=0e75b6&style=flat" alt="irohitsinghr" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ikesharinandan&label=Profile%20views&color=0e75b6&style=flat" alt="ikesharinandan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irohitsinghr" alt="irohitsinghr" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ikesharinandan" alt="ikesharinandan" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/irohitsinghr" target="blank"><img src="https://img.shields.io/twitter/follow/irohitsinghr?logo=twitter&style=for-the-badge" alt="irohitsinghr" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ikesharinandan" target="blank"><img src="https://img.shields.io/twitter/follow/ikesharinandan?logo=twitter&style=for-the-badge" alt="ikesharinandan" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/irohitsinghr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="irohitsinghr" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@irohitsinghr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="irohitsinghr" height="30" width="40" /></a>
+<a href="https://twitter.com/ikesharinandan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ikesharinandan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@ikesharinandan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ikesharinandan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
